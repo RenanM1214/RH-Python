@@ -1,0 +1,36 @@
+
+Codigo: 1
+Cargo: Atendente de Loja
+Competencias : Excelente atendimento ao cliente. - Conhecimento de produtos para animais de estimacao. - Habilidade de vendas. - Organizacao da loja.
+Salario: R$ 2.000
+-------------------------
+Codigo: 2
+Cargo: Tosador de Animais
+Competencias : Habilidade de tosa e banho em caes e gatos. - Cuidado com a higiene e bem-estar dos animais. - Corte de unhas e limpeza de ouvidos.
+Salario: R$ 3.000
+-------------------------
+Codigo: 3
+Cargo: Auxiliar de Veterinario
+Competencias : Auxilio em procedimentos medicos. - Administracao de medicamentos. - Cuidado com animais internados. - Agendamento de consultas.
+Salario: R$ 2.500
+-------------------------
+Codigo: 4
+Cargo: Gerente de Loja
+Competencias : Gerenciamento das operacoes da loja. - Supervisao da equipe. - Controle de estoque. - Pedidos de produtos. - Questoes administrativas.
+Salario: R$ 4.500
+-------------------------
+Codigo: 5
+Cargo: Veterinario
+Competencias : Prestacao de cuidados medicos a animais de estimacao. - Realizacao de cirurgias. - Diagnostico de doencas. - Vacinacoes. - Orientacao a proprietarios de animais.
+Salario: R$ 10.000
+-------------------------
+Codigo: 6
+Cargo: Banhista e Ajudante de Tosador
+Competencias : - Auxilio em banhos, secagem e tosa. - Limpeza e esterilizacao do ambiente.
+Salario: R$ 1.800
+-------------------------
+Codigo: 7
+Cargo: Recepcionista
+Competencias : Recebimento de clientes. - Agendamento de consultas. - Atendimento telefonico. - Gerenciamento da agenda. - Informacoes sobre servicos e precos.
+Salario: R$ 2.200
+-------------------------

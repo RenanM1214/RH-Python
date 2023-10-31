@@ -1,0 +1,56 @@
+
+Nome de login: ze
+Cargo: teste
+Salario: 2
+Email: ze@gmail.com
+-------------------------
+Nome do funcionário: renan
+Cargo: direotr
+Salario: 12000
+Email: renanfaedfr
+-------------------------
+Nome do funcionário: renan
+Cargo: 12300
+Salario: 12
+Email: fwe
+-------------------------
+Nome do funcionário: Lucas
+Cargo: Estudante
+Salario: 120
+Email: renanlucas@gmail.com
+-------------------------
+Nome do funcionário: pedro
+Cargo: estudante
+Salario: 12000
+Email: pedrolindo@gmail.com
+-------------------------
+Nome do funcionário: miguel
+Cargo: estudante
+Salario: 12
+Email: ermfoeif@gmail.com
+-------------------------
+Nome do funcionário: renan
+Cargo: diretor
+Salario: 12000
+Email: emeomvev
+-------------------------
+Nome do funcionário: fernando
+Cargo: diretor
+Salario: 12000
+Email: fnjoerifjenrof@gmail.com
+-------------------------
+Nome do funcionário: sao pa
+Cargo: rua 12
+Salario: 1798815
+Email: 12
+-------------------------
+Nome do funcionário: sao paulo
+Cargo: rua 12
+Salario: 12988157111
+Email: 13
+-------------------------
+Nome do funcionário: de
+Cargo: de
+Salario: de
+Email: de
+-------------------------
