@@ -1,5 +1,1 @@
-Nome da cidade: sao paulo
-Endereco: rua 12
-Telefone: 12438745
-Numero: 34
--------------------------
+
